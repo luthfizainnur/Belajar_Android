@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Puninar Testing App</string>
+    <string name="google_maps_key">AIzaSyBQWAG7gXrMJUUbU1lhKGGA_Idp2pClkNE</string>
+    <string name="a">Image Upload</string>
+    <string name="b">Maps Location</string>
+    <string name="c">Show Long Lat</string>
+    <string name="d">Show Data</string>
+    <string name="e">Login Page</string>
+    <string name="f">Home Page</string>
+    <string name="g">Parse XML Data</string>
+    <string name="h">Show Marker On Maps</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="city">Present Location</string>
+    <string name="no_text"> </string>
+    <string name="title_activity_marker">Map</string>
+</resources>
